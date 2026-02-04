@@ -19,8 +19,8 @@ let bot
 
 function createBot() {
   bot = mineflayer.createBot({
-    host: 'motasemtestpvp.aternos.me',
-    port: 43641,
+    host: 'motasemtestpvpserver.aternos.me',
+    port: 63814,
     username: 'hguehukuzhuuegu',
     auth: 'offline',
     version: '1.21.10',          // auto-detect version, usually works best for Aternos
